@@ -1,2 +1,3 @@
-# research_data
-Input data for research articles.
+# I plan to store input data for research articles in here.
+
+Not much is yet made available.
