@@ -1,6 +1,6 @@
 # Predicting financial crisis with recurrent neural networks
 
-This file contains the program code behind the article Tölö, E., (2020). “Predicting financial crises with recurrent neural networks,” Journal of Financial Stability, Volume 49, August 2020, 100746. Available at: https://doi.org/10.1016/j.jfs.2020.100746.
+The file *fullcode.ipynb* contains the program code behind the article Tölö, E., (2020). “Predicting financial crises with recurrent neural networks,” Journal of Financial Stability, Volume 49, August 2020, 100746. Available at: https://doi.org/10.1016/j.jfs.2020.100746.
 
 This code is made available for advanced users. The code is designed such that it can be mostly (but not completely) run sequentially starting from the top.
 
