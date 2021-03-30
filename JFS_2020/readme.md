@@ -2,7 +2,7 @@
 
 The file *Full_code.ipynb* contains the program code behind the article Tölö, E., (2020). “Predicting financial crises with recurrent neural networks,” Journal of Financial Stability, Volume 49, August 2020, 100746. Available at: https://doi.org/10.1016/j.jfs.2020.100746.
 
-This code is made available for advanced users. The code is designed such that it can be mostly (but not completely) run sequentially starting from the top.
+This code is made available for advanced users. It runs in iPython notebook and compatible software. The code is designed such that it can be mostly (but not completely) run sequentially starting from the top.
 
 First some libraries and data are imported. Then I define functions that transform the data (make it stationary, drop NaN values etc). Then more functions for the classification task, definition of models and model evaluation. After all the functions have been defined, the results are calculated by calling the function with specific input parameters - sometimes in a loop.
 
