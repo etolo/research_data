@@ -11,7 +11,7 @@ Some of the code is probably dense and hard to follow. That is mainly because of
 If you want to run some of the models included in the article, I recommend to extract the relevant parts of the code listed here, and build it into your own program.
  1. Data processing (top part of the code)
  2. Reshaping data to be suitable input to neural nets (search for reshape, there are one or two such short functions)
- 3. Inspect getModel to find out how the neural net that you are interested can be initialized.
+ 3. Inspect getModel to find out how the neural net that you are interested in can be initialized.
  4. Inspect fitModel to find out how the neural net that you are interested in can be fitted to the data.
  5. There are also functions for calculating the AUC statistics, usefulness, etc. that you may find useful.
  6. The cross-validation and sequential evaluation functions may also be of interest to you, albeit these parts of the code are somewhat complicated to read because of the factors mentioned earlier.
