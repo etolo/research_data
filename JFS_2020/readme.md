@@ -15,7 +15,7 @@ If you want to run some of the models included in the article, I recommend to ex
  4. Inspect fitModel-function to find out how the neural net that you are interested in can be fitted to the data.
  5. There are also functions for calculating the AUC statistics, usefulness, etc. that you may find useful.
  6. The cross-validation and sequential evaluation functions may also be of interest to you, albeit these parts of the code are somewhat complicated to read because of the factors mentioned earlier.
- 7. There is also functions that implement the calculation and analysis of Shapley values. Feel free to use them, but may be easier (safer) to build your own.
+ 7. There are also functions that implement the calculation and analysis of Shapley values. Feel free to use them, but may be easier (safer) to build your own.
  
 **Cite as:**
  
