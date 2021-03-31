@@ -8,7 +8,7 @@ First some libraries and data are imported. Then I define functions that transfo
 
 Some of the code is probably dense and hard to follow. That is mainly because of storing all the intermediate results and statistics for the article, and running all different options in a loop.
 
-If you want to run some of the models included in the article, I recommend to extract the relevant parts of the code listed here, and build it into your own program.
+If you want to run some of the models included in the article, I recommend to extract the relevant parts of the code listed here, and build it into your own program:
  1. Data processing (top part of the code)
  2. Reshaping data to be suitable input to neural nets (search for reshape, there are one or two such short functions)
  3. Inspect getModel-function to find out how the neural net that you are interested in can be initialized.
